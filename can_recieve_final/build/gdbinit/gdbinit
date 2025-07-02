@@ -1,0 +1,2 @@
+source /home/rafael/esp/projects/can_recieve_final/build/gdbinit/symbols
+source /home/rafael/esp/projects/can_recieve_final/build/gdbinit/connect

@@ -1,0 +1,5 @@
+{
+    "idf.port": "/dev/ttyACM1",
+    "idf.flashType": "UART",
+    "idf.pythonInstallPath": "/usr/bin/python3"
+}

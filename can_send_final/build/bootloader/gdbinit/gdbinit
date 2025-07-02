@@ -1,0 +1,2 @@
+source /home/rafael/esp/projects/can_send_final/build/bootloader/gdbinit/symbols
+source /home/rafael/esp/projects/can_send_final/build/bootloader/gdbinit/connect
